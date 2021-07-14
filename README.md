@@ -1,2 +1,3 @@
 # Road_safety_scraper
-![example workflow](https://github.com/gradedSystem/Road_safety_scraper/github/workflows/blank.yml/badge.svg)
+This is basic Scraper for https://en.wikipedia.org/wiki/Road_safety_in_Europe.
+The Data Wrangling Task provided by datopian.
