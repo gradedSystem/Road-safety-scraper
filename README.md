@@ -1,4 +1,4 @@
-	/appveyor/build/:user/:repo
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gradedSystem/Road-safety-scraper">
 
 # Road_safety_scraper
 
