@@ -1,0 +1,74 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "resource1",
+      "path": "data.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Area",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Population in 2018",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "GDP per capita in 2018",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Population density\n in 2017",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Vehicle ownership\n in 2016",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Road Network Length\n in 2013",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Total Road Deaths in 2018",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Road deaths\nper Million Inhabitants in 2018",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    }
+  ],
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "title": "A Yedige",
+      "role": "author"
+    }
+  ],
+  "description": "This the dataset from wikipedia page.",
+  "homepage": "https://en.wikipedia.org/wiki/Road_safety_in_Europe",
+  "name": "road_safety_dataset"
+}
