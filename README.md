@@ -1,4 +1,5 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gradedSystem/Road-safety-scraper">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gradedSystem/Road-safety-scraper">
 
 # Road_safety_scraper
 
